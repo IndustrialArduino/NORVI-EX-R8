@@ -14,5 +14,5 @@ Address Configurable Over DIP Switch
 MCP23008 I2C I/O Expander provider is used to operate Relay Outputs. 
 Relay outputs are Normally open.
 
-Datasheet:   https://drive.google.com/open?id=1DfX4LRNfwWhbjNO2VqOAJZ6xajlCX_6H&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1hYFQp_6bJMaL3RjPzyrfjNrmZ8IBCBDh&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ex-r8-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ex-r8-user-guide/
