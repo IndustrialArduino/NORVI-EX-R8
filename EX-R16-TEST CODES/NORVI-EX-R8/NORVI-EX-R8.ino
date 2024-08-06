@@ -1,8 +1,4 @@
-// Blinks an LED attached to a MCP23XXX pin.
 
-// ok to include only the one needed
-// both included here to make things simple for example
-//#include <Adafruit_MCP23X08.h>
 #include <Adafruit_MCP23X17.h>
 
 #define OUTPUT1 7
@@ -14,9 +10,6 @@
 #define OUTPUT7 10
 #define OUTPUT8 11
 
-
-
-// uncomment appropriate line
 //Adafruit_MCP23X08 mcp;
 Adafruit_MCP23X17 mcp;
 
